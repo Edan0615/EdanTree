@@ -76,7 +76,7 @@
             
             <div class="Links">
               <a
-                href="https://royalcodedan.blogspot.com"
+                href="https://royalcodeedan.blogspot.com/"
                 target="_blank"
                 >皇程部落格</a
               >

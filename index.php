@@ -111,7 +111,12 @@
             <div class="Links">
               <a href=" https://www.instagram.com/cfi_0x57c077b/" target="_blank">個人IG</a>
             </div>
-            
+            <div class="Links">
+              <a href="https://github.com/Edan0615" target="_blank">我的GITHUB</a>
+            </div>
+             <div class="Links">
+              <a href="https://github.com/Edan0615/EdanTree" target="_blank">下載本網頁程式(歡迎修改使用)</a>
+            </div>
           </div>
           
           <div id="InnerFooter">

@@ -97,6 +97,10 @@
                 四幸說部落格
                 </a>
             </div>  
+            <h1  class='ParTitle'>小遊戲</h1>
+            <div class="Links">
+              <a href="https://huangting.tech/1A2B" target="_blank">1A2B</a>
+            </div>
             <h1 class='ParTitle'>其他</h1>
             <div class="Links">
               <a
@@ -111,8 +115,12 @@
             <div class="Links">
               <a href=" https://www.instagram.com/cfi_0x57c077b/" target="_blank">個人IG</a>
             </div>
+            
             <div class="Links">
               <a href="https://github.com/Edan0615" target="_blank">我的GITHUB</a>
+            </div>
+            <div class="Links">
+              <a href="https://github.com/Edan0615/1A2B" target="_blank">1A2B原始碼</a>
             </div>
              <div class="Links">
               <a href="https://github.com/Edan0615/EdanTree" target="_blank">下載本網頁程式(歡迎修改使用)</a>

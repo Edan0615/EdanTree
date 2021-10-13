@@ -47,6 +47,13 @@
                 >皇榳IG</a
               >
             </div>
+             <div class="Links">
+              <a
+                href="https://play.google.com/store/apps/dev?id=6539328042706152473"
+                target="_blank"
+                >皇榳Google Play</a
+              >
+            </div>
             <h1 class='ParTitle'>文學院(英文)</h1>
             <div class="Links">
               <a href="https://www.youtube.com/c/EdanAcademy" target="_blank">

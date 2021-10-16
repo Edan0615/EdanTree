@@ -93,7 +93,7 @@
               <a
                 href="https://www.instagram.com/yansihsingsmile/"
                 target="_blank"
-                >言四辛官方IG</a
+                >言四幸官方IG</a
               >
             </div>  
             <div class="Links">
@@ -104,9 +104,13 @@
                 四幸說部落格
                 </a>
             </div>  
+            
             <h1  class='ParTitle'>小遊戲</h1>
             <div class="Links">
               <a href="https://huangting.tech/1A2B" target="_blank">1A2B</a>
+            </div>
+            <div class="Links">
+              <a href="https://play.google.com/store/apps/details?id=com.ww1A2B_14605847" target="_blank">1A2B(GooglePlay)</a>
             </div>
             <h1 class='ParTitle'>其他</h1>
             <div class="Links">

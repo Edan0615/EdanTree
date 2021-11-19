@@ -8,7 +8,6 @@ body {
   overflow-y: auto;
 }
 body {
-  background-image: url("../PIC/Background.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
